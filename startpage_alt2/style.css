@@ -50,7 +50,7 @@ h1.hello, h1.timing {
     box-sizing: border-box;
     background-color: rgba(56, 56, 56, 0.9);
     border: solid 0px #272727;
-    font-family: "Product Sans", sans-serif;
+    font-family: Product Sans,Cantarell, sans-serif;
     font-size: 1.3rem;
     color: #64e1fa;
     outline: none;
