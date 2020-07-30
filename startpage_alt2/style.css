@@ -63,7 +63,7 @@ h1.hello, h1.timing {
     position: absolute;
     top: 0.8rem;
     right: 0.8rem;
-    font-family: "Product Sans";
+    font-family: "Product Sans", sans-serif;
     font-weight: 500;
     font-size: 1.8rem;
     color: #abebf7;
