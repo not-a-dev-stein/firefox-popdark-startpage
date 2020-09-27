@@ -28,6 +28,7 @@ h1.hello {
 
 h1.hello, h1.timing {
 	margin-bottom: 10px;
+	font-family: Product Sans,Cantarell, sans-serif;
 	font-size: 3.2rem;
 	color: #f09400
 }
@@ -147,7 +148,7 @@ and (max-device-width : 480px){
     padding: 1em;
     background-color: rgba(56, 56, 56, 0.7);
     border-radius: 6px;
-    font-family: "Product Sans", sans-serif;
+    font-family: Product Sans, sans-serif;
     backdrop-filter: blur(10px);
     font-size: 0.9rem;
     width: 25%;
